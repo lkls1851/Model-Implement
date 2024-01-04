@@ -1,0 +1,5 @@
+device: train_time test_accuracy test_time
+
+cuda: 155.95 67.56% 1.58 
+
+cpu: 525.125 67.74% 2.91
